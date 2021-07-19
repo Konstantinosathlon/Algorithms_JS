@@ -1,6 +1,6 @@
 # Algorithms_JS
 
-# /countingDaysAbroad.js
+# /DaysofAbsenceCalculator.js
 Live on Codepen (https://codepen.io/Kons_athlon/project/editor/XMnLdo#)
 ## 1. Background
 ### 1.1 Target Audience - Purpose
