@@ -17,14 +17,14 @@ Five years continuous residence means that for 5 years in a row they’ve been i
 ### 2.1 Input
 Takes an array of objects where every object has a pair of properties with values that define the dates of departure and return.
 
-for example:
+##### for example:
 
 ![example_countDays](https://user-images.githubusercontent.com/79989252/126182380-f6a7b3bb-0b12-4ecf-b64b-0bd7d770871c.png)
 
 ### 2.2 Output
 Returns a string with the total days of absence in a 12 month period starting on the day of departure of each trip.
 
-for example:
+##### for example:
 
 ![output_doa](https://user-images.githubusercontent.com/79989252/126192318-2aaac4d6-69b9-4e7e-baa5-4914be8e5479.png)
 
