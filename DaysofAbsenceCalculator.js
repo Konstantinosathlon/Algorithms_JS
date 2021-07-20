@@ -1,5 +1,5 @@
 //calculate the days of absence for any 12 month period throu out the year
-            // input M  D Year
+            // input M-D-Year
 const trips = [{go: "3/15/2021", 
               back:"4/15/2021"},
               {go: "3/10/2022", 
